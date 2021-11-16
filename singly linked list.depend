@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637036945 source:c:\users\ragav\onedrive\desktop\singly linked list\linked list.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
